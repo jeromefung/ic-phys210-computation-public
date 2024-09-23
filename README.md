@@ -1,0 +1,1 @@
+Notebooks for computational exercises in PHYS 210 (Intermediate Mathematical and Computational Methods) at Ithaca College.
